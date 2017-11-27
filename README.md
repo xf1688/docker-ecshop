@@ -5,10 +5,11 @@ only modify your code file path
 
 # dockerfile in nginx-php folder
 # How to use this image
-#First:
+# First:
 In the root directory of the Dockerfile folder run the command such as :
-	docker build -t wilf/phpfpm-nginx .
+	`` docker build -t wilf/phpfpm-nginx . ``
 This command will build a image. -t define the name of the image,you can write your name,Don't forget .
+
 
 
 # Single Site (Recommended)
