@@ -16,3 +16,5 @@ When build done,run this command start container：
 
 nginx-phpfpm is the container name ,wilf/phpfpm-nginx as noted above,/Users/wilf/Documents/php/code is your local code, when run done
 visit 127.0.0.1:10001 you can see your project have run well
+
+# You can  only run start.sh script 
